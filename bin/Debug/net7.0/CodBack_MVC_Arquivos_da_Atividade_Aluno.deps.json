@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CodBack_MVC_Arquivos_da_Atividade_Aluno/1.0.0": {
+        "runtime": {
+          "CodBack_MVC_Arquivos_da_Atividade_Aluno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodBack_MVC_Arquivos_da_Atividade_Aluno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

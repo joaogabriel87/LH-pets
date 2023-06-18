@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CodBack_MVC_Arquivos_da_Atividade_Aluno.props" />
+</Project>
